@@ -1,0 +1,26 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "40fd09db-0b5c-43b7-ae54-f0ee6e15d007",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1740127826977"
+        }
+      },
+      "favorite": {
+        "name": "minhnhi.5ard2.mongodb.net"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb+srv://minhnhi1997:0962700714@minhnhi.5ard2.mongodb.net/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      }
+    }
+  ]
+}
