@@ -14,14 +14,14 @@ const RegisterPage = () => {
 
         if (res) {
             notification.success({
-                message: "CREATE USER",
-                description: "Success"
+                message: "Tạo tài Khoản",
+                description: "Thành công"
             });
-            navigate("/admin/login");
+            navigate("/admin/user");
         } else {
             notification.error({
-                message: "CREATE USER",
-                description: "Error"
+                message: "Tạo tài khoản",
+                description: "Thất bại"
             })
 
         };
